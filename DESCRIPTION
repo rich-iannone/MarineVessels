@@ -1,0 +1,12 @@
+Package: MarineVessels
+Type: Package
+Title: Marine Vessels
+Version: 0.1
+Date: 2015-02-26
+Author: Richard Iannone <riannone@me.com>
+Maintainer: Richard Iannone <riannone@me.com>
+License: MIT + file LICENSE
+Description: R dataset containing 63,701 records for active marine vessels.
+Encoding: UTF-8
+Depends: R (>= 2.10)
+LazyData: true
